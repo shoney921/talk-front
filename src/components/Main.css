@@ -1,0 +1,11 @@
+.group-header {
+  display: flex;
+  justify-content: space-around;
+}
+.talk-header {
+  text-align: center;
+}
+
+.member-card {
+  display: flex;
+}
